@@ -6,7 +6,7 @@ intro_content: |
 
    I'm Bessim Boujebli, a dedicated developer. I'm also interested in teaching and passing my knowledge that's why I start this blog site.
 intro_actions:
-  - label: Learn More
+  - label: Take a look!
     url: /about
     style: primary
   - label: Contact
