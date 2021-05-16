@@ -9,7 +9,7 @@ intro_actions:
   - label: Take a look!
     url: /about
     style: primary
-  - label: Reach me!!
+  - label: Reach out to me!!
     url: /contact
     style: secondary
 has_more_link: true
