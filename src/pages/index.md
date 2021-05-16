@@ -1,10 +1,10 @@
 ---
 title: Home
 has_intro: true
-intro_content: >
-  You are so welcome to my blog website, I'm Bessim Boujebli, a dedicated
-  developer. I'm also interested in teaching and passing my knowledge that's why
-  I start this blog site.
+intro_content: |
+  You are so welcome to my blog website,
+
+   I'm Bessim Boujebli, a dedicated developer. I'm also interested in teaching and passing my knowledge that's why I start this blog site.
 intro_actions:
   - label: Learn More
     url: /about
